@@ -11,7 +11,7 @@ Through **EDA, resampling, and ML models**, the project identifies customers at 
 
 ---
 
-## 🔹 Project Story (STAR Format)  
+## 🔹 Project Story   
 
 **Situation:**  
 A telecom company with **7,043 active customers** was facing **high churn (~27%)**, resulting in a potential **$1M+ annual revenue loss**. Leadership lacked visibility into *which customers were likely to leave* and *why*.  
