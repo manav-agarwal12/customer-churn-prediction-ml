@@ -49,7 +49,7 @@ Non-senior citizens are more likely to churn.
 
 [ 14 620]]
 
- Accuracy: **92%**  
+ Accuracy: **93%**  
  Very strong recall & precision for churn prediction.  
 
 - ✅ **Random Forest Model**  
@@ -58,7 +58,7 @@ Confusion Matrix:
 
 [ 27 625]]
 
- Accuracy: **93%**  
+ Accuracy: **94%**  
  Balanced performance with fewer false positives.  
 
 - Business simulations showed that retaining even **10% of high-risk customers (~140 people)** could save **$100K+ annually**.  
